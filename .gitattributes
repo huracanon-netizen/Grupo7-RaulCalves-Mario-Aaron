@@ -1,0 +1,24 @@
+# Configuracion general de finales de linea
+# Convierte los finales de linea automaticamente y usa CRLF en Windows
+* text=auto eol=crlf
+# Archivos de codigo fuente Java
+*.java text diff=java
+# Archivos de configuracion y recursos
+*.xml text
+*.properties text
+*.gradle text
+*.mf text
+*.txt text
+*.md text
+# Archivos de scripts
+*.bat text eol=crlf
+*.sh text eol=lf
+# Archivos binarios (no deben tratarse como texto)
+*.jar binary
+*.class binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.exe binary
