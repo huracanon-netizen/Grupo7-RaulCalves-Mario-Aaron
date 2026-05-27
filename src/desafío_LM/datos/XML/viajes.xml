@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE viajes SYSTEM "../DTD/viajes.dtd">
+
+<!-- Archivo XML que contiene el catálogo de viajes -->
+<!-- Se utiliza para cargar datos dinámicamente en la web -->
+<viajes>
+    <viaje>
+        <destino>Paris 1</destino>
+        <precio>330</precio>
+        <dias>2</dias>
+        <tipo>Romantico</tipo>
+        <personas>1</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 2</destino>
+        <precio>990</precio>
+        <dias>3</dias>
+        <tipo>Romantico</tipo>
+        <personas>2</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 3</destino>
+        <precio>660</precio>
+        <dias>2</dias>
+        <tipo>Romantico</tipo>
+        <personas>2</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 4</destino>
+        <precio>2640</precio>
+        <dias>4</dias>
+        <tipo>Romantico</tipo>
+        <personas>4</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 5</destino>
+        <precio>165</precio>
+        <dias>1</dias>
+        <tipo>Romantico</tipo>
+        <personas>1</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 6</destino>
+        <precio>2310</precio>
+        <dias>7</dias>
+        <tipo>Romantico</tipo>
+        <personas>2</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 7</destino>
+        <precio>660</precio>
+        <dias>2</dias>
+        <tipo>Romantico</tipo>
+        <personas>2</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>2 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 8</destino>
+        <precio>1160</precio>
+        <dias>4</dias>
+        <tipo>Romantico</tipo>
+        <personas>2</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 9</destino>
+        <precio>660</precio>
+        <dias>2</dias>
+        <tipo>Romantico</tipo>
+        <personas>2</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 10</destino>
+        <precio>4620</precio>
+        <dias>14</dias>
+        <tipo>Romantico</tipo>
+        <personas>2</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Paris 11</destino>
+        <precio>870</precio>
+        <dias>6</dias>
+        <tipo>Romantico</tipo>
+        <personas>1</personas>
+        <imagen>paris.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 1</destino>
+        <precio>480</precio>
+        <dias>2</dias>
+        <tipo>Aventura</tipo>
+        <personas>1</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 2</destino>
+        <precio>960</precio>
+        <dias>2</dias>
+        <tipo>Aventura</tipo>
+        <personas>2</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 3</destino>
+        <precio>720</precio>
+        <dias>3</dias>
+        <tipo>Aventura</tipo>
+        <personas>1</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 4</destino>
+        <precio>240</precio>
+        <dias>1</dias>
+        <tipo>Aventura</tipo>
+        <personas>1</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 5</destino>
+        <precio>2160</precio>
+        <dias>3</dias>
+        <tipo>Aventura</tipo>
+        <personas>3</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 6</destino>
+        <precio>720</precio>
+        <dias>3</dias>
+        <tipo>Aventura</tipo>
+        <personas>1</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 7</destino>
+        <precio>3360</precio>
+        <dias>7</dias>
+        <tipo>Aventura</tipo>
+        <personas>2</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 8</destino>
+        <precio>720</precio>
+        <dias>3</dias>
+        <tipo>Aventura</tipo>
+        <personas>1</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>2 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 9</destino>
+        <precio>240</precio>
+        <dias>1</dias>
+        <tipo>Aventura</tipo>
+        <personas>1</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 10</destino>
+        <precio>4800</precio>
+        <dias>5</dias>
+        <tipo>Aventura</tipo>
+        <personas>4</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tokio 11</destino>
+        <precio>720</precio>
+        <dias>3</dias>
+        <tipo>Aventura</tipo>
+        <personas>1</personas>
+        <imagen>tokio.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 1</destino>
+        <precio>145</precio>
+        <dias>1</dias>
+        <tipo>Cultural</tipo>
+        <personas>1</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 2</destino>
+        <precio>1160</precio>
+        <dias>4</dias>
+        <tipo>Cultural</tipo>
+        <personas>2</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 3</destino>
+        <precio>290</precio>
+        <dias>1</dias>
+        <tipo>Cultural</tipo>
+        <personas>2</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 4</destino>
+        <precio>870</precio>
+        <dias>3</dias>
+        <tipo>Cultural</tipo>
+        <personas>2</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 5</destino>
+        <precio>1740</precio>
+        <dias>7</dias>
+        <tipo>Cultural</tipo>
+        <personas>3</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 6</destino>
+        <precio>3045</precio>
+        <dias>4</dias>
+        <tipo>Cultural</tipo>
+        <personas>2</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 7</destino>
+        <precio>510</precio>
+        <dias>4</dias>
+        <tipo>Cultural</tipo>
+        <personas>1</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 8</destino>
+        <precio>2030</precio>
+        <dias>14</dias>
+        <tipo>Cultural</tipo>
+        <personas>1</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 9</destino>
+        <precio>145</precio>
+        <dias>1</dias>
+        <tipo>Cultural</tipo>
+        <personas>1</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 10</destino>
+        <precio>145</precio>
+        <dias>1</dias>
+        <tipo>Cultural</tipo>
+        <personas>1</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Roma 11</destino>
+        <precio>3625</precio>
+        <dias>5</dias>
+        <tipo>Cultural</tipo>
+        <personas>5</personas>
+        <imagen>roma.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 1</destino>
+        <precio>210</precio>
+        <dias>1</dias>
+        <tipo>Lujo</tipo>
+        <personas>1</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 2</destino>
+        <precio>1260</precio>
+        <dias>3</dias>
+        <tipo>Lujo</tipo>
+        <personas>2</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 3</destino>
+        <precio>2100</precio>
+        <dias>5</dias>
+        <tipo>Lujo</tipo>
+        <personas>2</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 4</destino>
+        <precio>840</precio>
+        <dias>4</dias>
+        <tipo>Lujo</tipo>
+        <personas>1</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 5</destino>
+        <precio>210</precio>
+        <dias>1</dias>
+        <tipo>Lujo</tipo>
+        <personas>1</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 6</destino>
+        <precio>2940</precio>
+        <dias>7</dias>
+        <tipo>Lujo</tipo>
+        <personas>2</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 7</destino>
+        <precio>210</precio>
+        <dias>1</dias>
+        <tipo>Lujo</tipo>
+        <personas>1</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 8</destino>
+        <precio>210</precio>
+        <dias>1</dias>
+        <tipo>Lujo</tipo>
+        <personas>1</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 9</destino>
+        <precio>5250</precio>
+        <dias>5</dias>
+        <tipo>Lujo</tipo>
+        <personas>5</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 10</destino>
+        <precio>2100</precio>
+        <dias>5</dias>
+        <tipo>Lujo</tipo>
+        <personas>2</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Dubai 11</destino>
+        <precio>210</precio>
+        <dias>1</dias>
+        <tipo>Lujo</tipo>
+        <personas>1</personas>
+        <imagen>dubai.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 1</destino>
+        <precio>195</precio>
+        <dias>1</dias>
+        <tipo>Relax</tipo>
+        <personas>1</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 2</destino>
+        <precio>2730</precio>
+        <dias>7</dias>
+        <tipo>Relax</tipo>
+        <personas>2</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 3</destino>
+        <precio>1250</precio>
+        <dias>7</dias>
+        <tipo>Relax</tipo>
+        <personas>1</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 4</destino>
+        <precio>2730</precio>
+        <dias>14</dias>
+        <tipo>Relax</tipo>
+        <personas>1</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 5</destino>
+        <precio>5460</precio>
+        <dias>14</dias>
+        <tipo>Relax</tipo>
+        <personas>2</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 6</destino>
+        <precio>1170</precio>
+        <dias>3</dias>
+        <tipo>Relax</tipo>
+        <personas>2</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 7</destino>
+        <precio>8190</precio>
+        <dias>14</dias>
+        <tipo>Relax</tipo>
+        <personas>3</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 8</destino>
+        <precio>585</precio>
+        <dias>3</dias>
+        <tipo>Relax</tipo>
+        <personas>1</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 9</destino>
+        <precio>975</precio>
+        <dias>5</dias>
+        <tipo>Relax</tipo>
+        <personas>1</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 10</destino>
+        <precio>780</precio>
+        <dias>2</dias>
+        <tipo>Relax</tipo>
+        <personas>2</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Bali 11</destino>
+        <precio>2925</precio>
+        <dias>5</dias>
+        <tipo>Relax</tipo>
+        <personas>3</personas>
+        <imagen>bali.avif</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 1</destino>
+        <precio>260</precio>
+        <dias>1</dias>
+        <tipo>Urbano</tipo>
+        <personas>1</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 2</destino>
+        <precio>1820</precio>
+        <dias>7</dias>
+        <tipo>Urbano</tipo>
+        <personas>1</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 3</destino>
+        <precio>1040</precio>
+        <dias>2</dias>
+        <tipo>Urbano</tipo>
+        <personas>2</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>2 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 4</destino>
+        <precio>2080</precio>
+        <dias>2</dias>
+        <tipo>Urbano</tipo>
+        <personas>4</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 5</destino>
+        <precio>3640</precio>
+        <dias>14</dias>
+        <tipo>Urbano</tipo>
+        <personas>1</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 6</destino>
+        <precio>6500</precio>
+        <dias>5</dias>
+        <tipo>Urbano</tipo>
+        <personas>5</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 7</destino>
+        <precio>260</precio>
+        <dias>1</dias>
+        <tipo>Urbano</tipo>
+        <personas>1</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 8</destino>
+        <precio>5460</precio>
+        <dias>7</dias>
+        <tipo>Urbano</tipo>
+        <personas>3</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>2 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 9</destino>
+        <precio>3120</precio>
+        <dias>2</dias>
+        <tipo>Urbano</tipo>
+        <personas>6</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 10</destino>
+        <precio>4160</precio>
+        <dias>4</dias>
+        <tipo>Urbano</tipo>
+        <personas>4</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Nueva York 11</destino>
+        <precio>5200</precio>
+        <dias>10</dias>
+        <tipo>Urbano</tipo>
+        <personas>2</personas>
+        <imagen>nwyk.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 1</destino>
+        <precio>175</precio>
+        <dias>1</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>1</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 2</destino>
+        <precio>700</precio>
+        <dias>2</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>2</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 3</destino>
+        <precio>1400</precio>
+        <dias>4</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>3</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>2 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 4</destino>
+        <precio>2450</precio>
+        <dias>14</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>1</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 5</destino>
+        <precio>3500</precio>
+        <dias>4</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>5</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 6</destino>
+        <precio>7000</precio>
+        <dias>10</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>4</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 7</destino>
+        <precio>1050</precio>
+        <dias>3</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>2</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 8</destino>
+        <precio>3675</precio>
+        <dias>7</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>3</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 9</destino>
+        <precio>1750</precio>
+        <dias>10</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>1</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 10</destino>
+        <precio>1575</precio>
+        <dias>3</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>3</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Londres 11</destino>
+        <precio>3500</precio>
+        <dias>10</dias>
+        <tipo>Cosmopolita</tipo>
+        <personas>2</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 1</destino>
+        <precio>160</precio>
+        <dias>1</dias>
+        <tipo>Exótico</tipo>
+        <personas>1</personas>
+        <imagen>londres.avif</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 2</destino>
+        <precio>1120</precio>
+        <dias>7</dias>
+        <tipo>Exótico</tipo>
+        <personas>1</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 3</destino>
+        <precio>800</precio>
+        <dias>5</dias>
+        <tipo>Exótico</tipo>
+        <personas>1</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 4</destino>
+        <precio>1440</precio>
+        <dias>3</dias>
+        <tipo>Exótico</tipo>
+        <personas>3</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 5</destino>
+        <precio>3200</precio>
+        <dias>5</dias>
+        <tipo>Exótico</tipo>
+        <personas>4</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 6</destino>
+        <precio>640</precio>
+        <dias>4</dias>
+        <tipo>Exótico</tipo>
+        <personas>1</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 7</destino>
+        <precio>800</precio>
+        <dias>1</dias>
+        <tipo>Exótico</tipo>
+        <personas>5</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 8</destino>
+        <precio>2240</precio>
+        <dias>7</dias>
+        <tipo>Exótico</tipo>
+        <personas>2</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 9</destino>
+        <precio>1280</precio>
+        <dias>4</dias>
+        <tipo>Exótico</tipo>
+        <personas>2</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 10</destino>
+        <precio>5600</precio>
+        <dias>7</dias>
+        <tipo>Exótico</tipo>
+        <personas>5</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>2 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Tailandia 11</destino>
+        <precio>4480</precio>
+        <dias>14</dias>
+        <tipo>Exótico</tipo>
+        <personas>2</personas>
+        <imagen>tailandia.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 1</destino>
+        <precio>1280</precio>
+        <dias>2</dias>
+        <tipo>Premium</tipo>
+        <personas>2</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 2</destino>
+        <precio>320</precio>
+        <dias>1</dias>
+        <tipo>Premium</tipo>
+        <personas>1</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 3</destino>
+        <precio>4480</precio>
+        <dias>7</dias>
+        <tipo>Premium</tipo>
+        <personas>2</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 4</destino>
+        <precio>4480</precio>
+        <dias>14</dias>
+        <tipo>Premium</tipo>
+        <personas>1</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Cenas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 5</destino>
+        <precio>960</precio>
+        <dias>3</dias>
+        <tipo>Premium</tipo>
+        <personas>1</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 6</destino>
+        <precio>8000</precio>
+        <dias>5</dias>
+        <tipo>Premium</tipo>
+        <personas>5</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 7</destino>
+        <precio>2560</precio>
+        <dias>4</dias>
+        <tipo>Premium</tipo>
+        <personas>2</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 8</destino>
+        <precio>3200</precio>
+        <dias>10</dias>
+        <tipo>Premium</tipo>
+        <personas>1</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>2 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 9</destino>
+        <precio>8960</precio>
+        <dias>14</dias>
+        <tipo>Premium</tipo>
+        <personas>2</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>3 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Comidas</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 10</destino>
+        <precio>4800</precio>
+        <dias>5</dias>
+        <tipo>Premium</tipo>
+        <personas>3</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>4 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 11</destino>
+        <precio>14400</precio>
+        <dias>15</dias>
+        <tipo>Premium</tipo>
+        <personas>3</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno</comidas>
+        <guia>Si</guia>
+    </viaje>
+    <viaje>
+        <destino>Maldivas 12</destino>
+        <precio>8960</precio>
+        <dias>7</dias>
+        <tipo>Premium</tipo>
+        <personas>4</personas>
+        <imagen>Maldivas.jpg</imagen>
+        <hotel>5 estrellas</hotel>
+        <vuelo>Incluido</vuelo>
+        <comidas>Desayuno/Merienda/Cenas</comidas>
+        <guia>No</guia>
+    </viaje>
+</viajes>

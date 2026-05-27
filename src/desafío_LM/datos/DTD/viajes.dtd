@@ -1,0 +1,14 @@
+<!ELEMENT viajes (viaje+)>
+
+<!ELEMENT viaje (destino, precio, dias, tipo, personas, imagen, hotel, vuelo, comidas, guia)>
+
+<!ELEMENT destino (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT dias (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT personas (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>
+<!ELEMENT hotel (#PCDATA)>
+<!ELEMENT vuelo (#PCDATA)>
+<!ELEMENT comidas (#PCDATA)>
+<!ELEMENT guia (#PCDATA)>
