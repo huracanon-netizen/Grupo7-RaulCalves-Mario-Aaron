@@ -3,7 +3,7 @@
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
   <jar>C:\SkyRouteBuild\App\Agencia_Viajes.jar</jar>
-  <outfile>C:\SkyRouteBuild\App\SkyRouteTravel.exe</outfile>
+  <outfile>C:\SkyRouteBuild\App\SkyRouteJourney.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>

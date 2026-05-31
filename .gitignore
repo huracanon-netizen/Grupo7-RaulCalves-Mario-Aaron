@@ -23,3 +23,6 @@
 #Directorios
 /build/
 /target/
+/src/AgenciaProyectoFinal-SkyRouteJourney/build/
+/src/AgenciaProyectoFinal-SkyRouteJourney/dist/
+/src/AgenciaProyectoFinal-SkyRouteJourney/nbproject/private/
